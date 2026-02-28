@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "John Smith", "email": "john@email.com", "age": 25},
+    {"id": 2, "name": "Jane Doe", "email": "", "age": 30},
+    {"id": 3, "name": "", "email": "mary@email.com", "age": null},
+    {"id": 4, "name": "Bob Wilson", "email": "bob@email.com", "age": 45},
+    {"id": 5, "name": "Alice Brown", "email": "alice", "age": 28}
+]

@@ -1,0 +1,6 @@
+record,status,errors
+1,Valid,
+2,Invalid,Missing value in field: 'email'
+3,Invalid,"Missing value in field: 'name', Missing value in field: 'age'"
+4,Valid,
+5,Invalid,Invalid email format
